@@ -4,6 +4,8 @@ The digital ecosystem of Wellness IP is broken down at a reasonably high level t
 
 The digital presence is broken down into six primary concerns: Design, Marketing, eCommerce, Native App, Web API, and Education. Each area is then outlined with important steps or details that are relevant to manifesting the product or presence.
 
+Some of the efforts can be collapsed so they are managed under one roof, the pros and cons of those decisions are a conversation as there are various ways that can impact management, flexibility, and overall experience.
+
 ## Design
 The design effort focuses on establishing a foundation that informs our decisions when generating any item that has a visual component. This is essentially every single item from the product itself, packaging, user manuals, emails, websites, instagram posts, ads, etc.
 
@@ -29,6 +31,8 @@ The assets related to awareness and conversion fall under the marketing umbrella
 
 ## eCommerce
 The online store is a crucial component to distributing the physical product. This typically caters to users as well as wholesalers or practitioners. The primary concern is to facilitate the successful sale and delivery of the product.
+
+This could potentially be collapsed into marketing, allowing the store and marketing assets to be managed under one roof.
 
 1. Platform to use (Shopify)
 2. Theming - consistent look and feel
@@ -86,6 +90,8 @@ The Web API will serve as the backbone for collecting data and building out vari
 ## Educational
 Educational content will be essential to long-term engagement with the platform. It will serve an essential role in facilitating practitioners and how they engage with clients, developing trust and validation with clients, and with establishing us as the thought leaders at the forefront of the industry.
 
+This coukld be collapsed into the marketing/ecomm effort or the web app, depending on the functional needs.
+
 1. Platform to use - Vimeo, YouTube
 2. Where content lives - marketing site, application etc
 3. Content production
@@ -119,6 +125,8 @@ The web application will be a similar experience to the mobile application, but 
 ## Support
 Ensuring customers who run into any form of hardship during the product lifecycle and engagement is essential to the health of the brand and thus the company. In this day and age, squeaky wheels have a megaphone and can turn all the other wheels away. This is a complex effort the needs to cover a multitude of need-states across various aspects of the product.
 
+This should be housed under one roof, treating all avenues from a singular point of communication ideally.
+
 1. Hardware issues
 	1. Hardware failure
 	2. Communication issues
@@ -129,4 +137,3 @@ Ensuring customers who run into any form of hardship during the product lifecycl
 	2. Password resets
 	3. Account deletes
 	4. Data security
-3. 
