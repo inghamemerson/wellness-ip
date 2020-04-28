@@ -1,5 +1,4 @@
 # MCO Software Development
-::04-27-2020::
 
 The digital ecosystem of Wellness IP is broken down at a reasonably high level to cover the complexity of all areas. These are not meant to convey any timeline or priority, merely the details and considerations that typically need to be made regarding the digital property. 
 
@@ -95,7 +94,27 @@ Educational content will be essential to long-term engagement with the platform.
 6. Taxonomies to relate to various exercises, users, uses
 
 ## Web Application
-The web application will be a similar experience to the mobile application, but more focused on discovery, exploration and potentially education since it will not immediately be able to pull data from the device.
+The web application will be a similar experience to the mobile application, but more focused on discovery, exploration and potentially education since it will not immediately be able to pull data from the device. Initally it could serve as an internal tool to run reports over our data, and slowly expand to offer insights that users and practitioners could leverage to manage their info respectively.
+
+1. Decide language/platform
+2. Establish initial features
+3. Develop UI
+4. Outline user flows
+5. Application IA and navigation
+6. Communication protocols with web API
+7. Initial screens
+8. Authentication
+9. Roles and permissions
+	1. User
+	2. Practitioner
+	3. Admin
+	4. Student
+10. Hosting/staging
+11. Code management, version control
+12. Bug/issues and maintenance
+13. Tracking and performance
+14. Encryption and data security
+15. Security protocols
 
 ## Support
 Ensuring customers who run into any form of hardship during the product lifecycle and engagement is essential to the health of the brand and thus the company. In this day and age, squeaky wheels have a megaphone and can turn all the other wheels away. This is a complex effort the needs to cover a multitude of need-states across various aspects of the product.
